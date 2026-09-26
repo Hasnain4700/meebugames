@@ -9,6 +9,7 @@ A complete, responsive multi-page game studio portfolio built with plain HTML, C
 - Studio — `studio.html`
 - Careers — `careers.html`
 - Contact — `contact.html`
+- Privacy Policy — `privacy.html`
 - Custom 404 — `404.html`
 
 ## Preview locally
